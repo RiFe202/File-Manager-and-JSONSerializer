@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Test1",
+    "Age": 100,
+    "Country": "Bulgaria",
+    "City": "Sofia"
+  },
+  {
+    "Name": "Test2",
+    "Age": 100,
+    "Country": "Norway",
+    "City": "Oslo"
+  },
+  {
+    "Name": "Test3",
+    "Age": 20,
+    "Country": "Sweden",
+    "City": "Stockholm"
+  }
+]

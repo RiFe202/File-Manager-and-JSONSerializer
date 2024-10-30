@@ -1,0 +1,14 @@
+C:\Users\ericl\Desktop\Prosjekter\File Manager and JSONSerializer 30.10.2024\obj\Debug\net8.0\File Manager and JSONSerializer 30.10.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericl\Desktop\Prosjekter\File Manager and JSONSerializer 30.10.2024\obj\Debug\net8.0\File Manager and JSONSerializer 30.10.2024.AssemblyInfoInputs.cache
+C:\Users\ericl\Desktop\Prosjekter\File Manager and JSONSerializer 30.10.2024\obj\Debug\net8.0\File Manager and JSONSerializer 30.10.2024.AssemblyInfo.cs
+C:\Users\ericl\Desktop\Prosjekter\File Manager and JSONSerializer 30.10.2024\obj\Debug\net8.0\File Manager and JSONSerializer 30.10.2024.csproj.CoreCompileInputs.cache
+C:\Users\ericl\Desktop\Prosjekter\File Manager and JSONSerializer 30.10.2024\bin\Debug\net8.0\File Manager and JSONSerializer 30.10.2024.exe
+C:\Users\ericl\Desktop\Prosjekter\File Manager and JSONSerializer 30.10.2024\bin\Debug\net8.0\File Manager and JSONSerializer 30.10.2024.deps.json
+C:\Users\ericl\Desktop\Prosjekter\File Manager and JSONSerializer 30.10.2024\bin\Debug\net8.0\File Manager and JSONSerializer 30.10.2024.runtimeconfig.json
+C:\Users\ericl\Desktop\Prosjekter\File Manager and JSONSerializer 30.10.2024\bin\Debug\net8.0\File Manager and JSONSerializer 30.10.2024.dll
+C:\Users\ericl\Desktop\Prosjekter\File Manager and JSONSerializer 30.10.2024\bin\Debug\net8.0\File Manager and JSONSerializer 30.10.2024.pdb
+C:\Users\ericl\Desktop\Prosjekter\File Manager and JSONSerializer 30.10.2024\obj\Debug\net8.0\File Manager and JSONSerializer 30.10.2024.dll
+C:\Users\ericl\Desktop\Prosjekter\File Manager and JSONSerializer 30.10.2024\obj\Debug\net8.0\refint\File Manager and JSONSerializer 30.10.2024.dll
+C:\Users\ericl\Desktop\Prosjekter\File Manager and JSONSerializer 30.10.2024\obj\Debug\net8.0\File Manager and JSONSerializer 30.10.2024.pdb
+C:\Users\ericl\Desktop\Prosjekter\File Manager and JSONSerializer 30.10.2024\obj\Debug\net8.0\File Manager and JSONSerializer 30.10.2024.genruntimeconfig.cache
+C:\Users\ericl\Desktop\Prosjekter\File Manager and JSONSerializer 30.10.2024\obj\Debug\net8.0\ref\File Manager and JSONSerializer 30.10.2024.dll

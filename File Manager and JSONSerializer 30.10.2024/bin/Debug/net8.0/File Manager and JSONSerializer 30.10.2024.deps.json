@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "File Manager and JSONSerializer 30.10.2024/1.0.0": {
+        "runtime": {
+          "File Manager and JSONSerializer 30.10.2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "File Manager and JSONSerializer 30.10.2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
